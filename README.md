@@ -99,4 +99,6 @@ That's all, cluster has been scaled up !!!
 
 ## 6.Credits
 
+Based on http://tedezed.github.io/Celtic-Kubernetes/HTML/2-Kube_simple.html
+
 Thanks also to my partners Noel Ruiz Lopez and Jorge Valderrama for the contributions
